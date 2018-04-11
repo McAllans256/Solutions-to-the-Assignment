@@ -1,4 +1,4 @@
-/*......a program with some problems.........*/
+/*........a program with some problems.........*/
 
 #include <stdio.h>
 void print_msg(void);
