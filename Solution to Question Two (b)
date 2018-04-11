@@ -1,4 +1,4 @@
-/*......a program with a custom header.........*/
+/*........a program with a custom header.........*/
 
 #include <stdio.h>
 #ifndef print_a_number.h
